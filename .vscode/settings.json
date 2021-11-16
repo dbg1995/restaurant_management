@@ -1,0 +1,26 @@
+{
+  "window.newWindowDimensions": "inherit",
+  "terminal.integrated.scrollback": 10000000,
+  "explorer.confirmDelete": false,
+  "editor.rulers": [
+      150
+  ],
+  "editor.codeActionsOnSave": {
+      "source.fixAll": true
+  },
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "diffEditor.wordWrap": "on",
+  "diffEditor.ignoreTrimWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "eslint.alwaysShowStatus": true,
+  "sync.gist": "8e2c7b4a5dfc725d702d75e956ddf982",
+  "cSpell.userWords": [
+      "dtos",
+      "nestjs",
+      "pagy",
+      "typeorm",
+      "varchar"
+  ],
+}
